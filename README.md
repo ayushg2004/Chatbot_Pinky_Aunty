@@ -2,7 +2,7 @@
 
 AI Chat App using Generative Language Client API
 
-[chat-ai](https://pinkyauntyai.vercel.app/)
+[pinky-ai](https://pinkyauntyai.vercel.app/)
 
 ## Setup Procedure
 
